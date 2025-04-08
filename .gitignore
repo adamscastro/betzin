@@ -1,0 +1,28 @@
+# Clojure / Leiningen
+/.lein-deps-sum
+/.nrepl-port
+/target/
+.checkouts/
+pom.xml
+*.jar
+
+# Arquivos de dados locais
+conta.edn
+apostas.edn
+dados-*.edn
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IntelliJ / Cursive
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Arquivos temporários
+*.log
+*.swp
+*~
